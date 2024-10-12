@@ -16,7 +16,7 @@ To get a local copy up and running, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/swiftui-weather-app.git
+git clone https://github.com/RensithUdara/weather_app
 
 Open the project in Xcode:
 
